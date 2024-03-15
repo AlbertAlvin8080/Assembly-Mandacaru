@@ -1,1 +1,2 @@
-# Repository used for storing assembly code used in __Mandacaru__, a simulatable virtual hardware which includes a conceptual processor called __Cariri__.
+# Description
+Repository used for storing assembly code used in _Mandacaru_, a simulatable virtual hardware which includes a conceptual processor called _Cariri_.
